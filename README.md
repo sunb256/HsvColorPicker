@@ -1,2 +1,2 @@
 # HsvColorPicker
-This is a hsv viewer using VB.Net.
+This is a HsvColorPicker using VB.Net with WinForms.
